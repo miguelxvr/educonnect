@@ -32,10 +32,16 @@ Criar uma plataforma digital para estreitar a relação entre alunos e professor
 
 ### **3. Requisitos Não Funcionais:**  
 
-- **Performance:** Suporte a muitos usuários simultaneamente.
-- **Segurança:** Protocolos avançados de segurança.
-- **Usabilidade:** Interface intuitiva e moderna.
-- **Multiplataforma:** Adaptável a diversas plataformas.
+- Performance: Suporte a muitos usuários simultaneamente.
+- Segurança: Protocolos avançados de segurança.
+- Usabilidade: Interface intuitiva e moderna.
+- Multiplataforma: Adaptável a diversas plataformas.
+
+### **4. Agenda Acadêmica Integrada:**
+
+- Sincronização com calendários acadêmicos, datas de provas, trabalhos e atividades extracurriculares.
+- Configuração de lembretes personalizados para o aluno.
+- Professores podem inserir datas importantes relativas a suas disciplinas.
 
 ### **4. Stakeholders:**  
 - Alunos
