@@ -30,18 +30,19 @@ Criar uma plataforma digital para estreitar a relação entre alunos e professor
 - Registro de histórico de conversas.
 - Configuração de disponibilidade dos professores.
 
+**2.6. Agenda Acadêmica Integrada:**
+
+- Sincronização com calendários acadêmicos, datas de provas, trabalhos e atividades extracurriculares.
+- Configuração de lembretes personalizados para o aluno.
+- Professores podem inserir datas importantes relativas a suas disciplinas.
+
+
 ### **3. Requisitos Não Funcionais:**  
 
 - Performance: Suporte a muitos usuários simultaneamente.
 - Segurança: Protocolos avançados de segurança.
 - Usabilidade: Interface intuitiva e moderna.
 - Multiplataforma: Adaptável a diversas plataformas.
-
-### **4. Agenda Acadêmica Integrada:**
-
-- Sincronização com calendários acadêmicos, datas de provas, trabalhos e atividades extracurriculares.
-- Configuração de lembretes personalizados para o aluno.
-- Professores podem inserir datas importantes relativas a suas disciplinas.
 
 ### **4. Stakeholders:**  
 - Alunos
